@@ -1,41 +1,53 @@
 # Yoshi Tribe Archive — Screenshot Gallery
 
-This directory is reserved for visual documentation of the actual Yoshi Tribe preservation workspace.
+Visual documentation here is tied to actual recovered archive material. Images are not redesigned mockups.
 
-## Planned screenshots
+## Recovered screenshot now preserved in GitHub
+
+### Restored original Yoshi Tribe homepage
+
+[![Restored original Yoshi Tribe homepage](original-homepage.jpg)](original-homepage.jpg)
+
+- Repository file: `original-homepage.jpg`
+- Source artifact name: `archive-final-original-home.png`
+- Source: recovered Yoshi Tribe archive workspace in Google Drive
+- Status: **actual recovered/restored-site capture**
+- GitHub copy is a compressed preview for repository readability; the source capture remains retained in the archive workspace.
+
+## Additional confirmed source screenshots
+
+The Drive workspace also contains genuine captures for the offline archive hub and mobile presentation. These remain queued for repository-preview migration while their full source copies stay preserved in the Drive archive.
+
+| Page / view | Source artifact | Repository target | Status |
+|---|---|---|---|
+| Archive hub | `archive-final-hub.png` | `archive-home.jpg` | Source confirmed |
+| Original desktop homepage | `archive-final-original-home.png` | `original-homepage.jpg` | **Preserved here** |
+| Original mobile homepage | `archive-final-original-mobile.png` | `original-mobile.jpg` | Source confirmed |
+| Mobile verification | `yoshitribe-mobile-check.png` | `mobile-check.png` | Source confirmed |
+
+## Archive-interface capture queue
 
 | Page | Suggested image | What it documents |
 |---|---|---|
-| Archive home | `archive-home.png` | Main navigation, collection statistics, preservation labels |
-| Search | `search.png` | Search controls and recovered collection search |
-| Timeline | `timeline.png` | Chronological archive browser |
-| Gallery | `gallery.png` | Recovered-media interface |
-| News | `news-browser.png` | News archive and filters |
-| Board explorer | `board-explorer.png` | Preserved EZBoard browsing |
-| Members | `board-members.png` | Recovered member index |
-| Site versions | `site-versions.png` | Historical capture/version browser |
-| Raw files | `raw-files.png` | Preservation-file inventory |
-| Missing materials | `missing-materials.png` | Recovery-status/missing-material research |
-| Provenance | `provenance.png` | Source and preservation documentation |
-| Original homepage | `original-homepage.png` | Restored period Yoshi Tribe homepage |
-| Yoshi Valley | `yoshi-valley.png` | Recovered companion site |
-| Alzabo | `alzabo.png` | Related recovered archive |
+| Search | `search.jpg` | Search controls and recovered collection search |
+| Timeline | `timeline.jpg` | Chronological archive browser |
+| Gallery | `gallery.jpg` | Recovered-media interface |
+| News | `news-browser.jpg` | News archive and filters |
+| Board explorer | `board-explorer.jpg` | Preserved EZBoard browsing |
+| Members | `board-members.jpg` | Recovered member index |
+| Site versions | `site-versions.jpg` | Historical capture/version browser |
+| Raw files | `raw-files.jpg` | Preservation-file inventory |
+| Missing materials | `missing-materials.jpg` | Recovery-status/missing-material research |
+| Provenance | `provenance.jpg` | Source and preservation documentation |
+| Yoshi Valley | `yoshi-valley.jpg` | Recovered companion site |
+| Alzabo | `alzabo.jpg` | Related recovered archive |
 
 ## Screenshot rules
 
-Screenshots in this directory should come from the actual archived HTML/build being documented. Each screenshot should identify the corresponding page and, when known, the source/build date.
+1. Use actual archived/recovered pages or established reconstructed archive interfaces.
+2. Record the source artifact/page represented by each image.
+3. Keep reconstructed archive tooling distinguishable from period-original pages.
+4. Do not substitute newly designed approximations for missing historical screenshots.
+5. Prefer smaller GitHub preview images while retaining higher-resolution source captures in the preservation workspace.
 
-Do not use a newly designed approximation as evidence of what the archived page looked like. If a page cannot currently be rendered, leave its screenshot pending until the source page can be rendered correctly.
-
-## Recommended README presentation
-
-Once PNG files are available, the main README can show a compact gallery such as:
-
-```md
-[![Archive home](screenshots/archive-home.png)](archive-home.html)
-[![Search](screenshots/search.png)](search.html)
-[![Timeline](screenshots/timeline.png)](timeline.html)
-[![Gallery](screenshots/gallery.png)](gallery.html)
-```
-
-This keeps visual documentation directly tied to the corresponding preserved page.
+This keeps visual documentation tied to the corresponding preservation evidence rather than treating screenshots as decoration.
