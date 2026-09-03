@@ -2,25 +2,32 @@
 
 Visual documentation here is tied to actual recovered archive material. Images are not redesigned mockups.
 
-## Recovered screenshot now preserved in GitHub
+## Preserved screenshots
+
+### Offline archive hub
+
+[![Yoshi Tribe offline archive hub](archive-home.jpg)](archive-home.jpg)
+
+- Repository file: `archive-home.jpg`
+- Source artifact: `archive-final-hub.png`
+- Status: **actual archive-workspace capture**
+- Shows the preservation hub used to navigate the recovered collections.
 
 ### Restored original Yoshi Tribe homepage
 
 [![Restored original Yoshi Tribe homepage](original-homepage.jpg)](original-homepage.jpg)
 
 - Repository file: `original-homepage.jpg`
-- Source artifact name: `archive-final-original-home.png`
-- Source: recovered Yoshi Tribe archive workspace in Google Drive
+- Source artifact: `archive-final-original-home.png`
 - Status: **actual recovered/restored-site capture**
-- GitHub copy is a compressed preview for repository readability; the source capture remains retained in the archive workspace.
+
+Both GitHub images are compressed previews for repository readability; the higher-resolution source captures remain retained in the archive workspace.
 
 ## Additional confirmed source screenshots
 
-The Drive workspace also contains genuine captures for the offline archive hub and mobile presentation. These remain queued for repository-preview migration while their full source copies stay preserved in the Drive archive.
-
 | Page / view | Source artifact | Repository target | Status |
 |---|---|---|---|
-| Archive hub | `archive-final-hub.png` | `archive-home.jpg` | Source confirmed |
+| Archive hub | `archive-final-hub.png` | `archive-home.jpg` | **Preserved here** |
 | Original desktop homepage | `archive-final-original-home.png` | `original-homepage.jpg` | **Preserved here** |
 | Original mobile homepage | `archive-final-original-mobile.png` | `original-mobile.jpg` | Source confirmed |
 | Mobile verification | `yoshitribe-mobile-check.png` | `mobile-check.png` | Source confirmed |
@@ -50,4 +57,4 @@ The Drive workspace also contains genuine captures for the offline archive hub a
 4. Do not substitute newly designed approximations for missing historical screenshots.
 5. Prefer smaller GitHub preview images while retaining higher-resolution source captures in the preservation workspace.
 
-This keeps visual documentation tied to the corresponding preservation evidence rather than treating screenshots as decoration.
+This keeps visual documentation tied to preservation evidence rather than treating screenshots as decoration.
