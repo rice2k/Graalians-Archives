@@ -4,6 +4,12 @@ A preservation workspace for the **Yoshi Tribe**, its **EZBoard community**, **Y
 
 This repository section is intended to preserve both recovered historical material and the research/navigation layer created to make that material usable offline. Recovered originals, reconstructed presentation, and known missing material are deliberately distinguished rather than presented as if they were all original files.
 
+## Visual preview
+
+[![Restored original Yoshi Tribe homepage](screenshots/original-homepage.jpg)](screenshots/original-homepage.jpg)
+
+*Compressed GitHub preview made from the actual recovered/restored-site screenshot. See the [screenshot catalog](screenshots/README.md) for source/status details.*
+
 ## Archive at a glance
 
 | Collection | Recovered / indexed |
@@ -63,13 +69,13 @@ See [`docs/ADDITIONAL-ARCHIVE-FILES.md`](docs/ADDITIONAL-ARCHIVE-FILES.md) and [
 
 ## Screenshot gallery
 
-A dedicated screenshot gallery is being maintained under [`screenshots/README.md`](screenshots/README.md). Screenshots should be made from the actual recovered/reconstructed archive pages and labeled with the page/build they represent. Approximated or invented screenshots should not be used as preservation evidence.
+The [`screenshots`](screenshots/README.md) directory tracks actual recovered captures and the remaining archive-interface capture queue. Screenshot entries identify whether they represent period/restored pages or reconstructed preservation tooling.
 
 ## Migration status
 
-The archive documentation and landing-page work are present in GitHub. The larger source collection remains a staged migration: files should be copied source-faithfully where possible instead of rebuilt from truncated search results.
+The archive documentation, landing-page work, and first verified visual capture are present in GitHub. The larger source collection remains a staged migration: files should be copied source-faithfully where possible instead of rebuilt from truncated search results.
 
-Some generated builds report slightly different counts (for example gallery/raw-file totals). Those differences should be retained as build/version evidence rather than silently normalized.
+Some generated builds report slightly different counts (for example gallery/raw-file totals). Those differences are retained as build/version evidence rather than silently normalized.
 
 ## Preservation goals
 
